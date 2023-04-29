@@ -23,7 +23,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: juan-cassius #Aqui coloco o código de usuário github
+          github_user_name: juan-cassius #Seu usuario
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
